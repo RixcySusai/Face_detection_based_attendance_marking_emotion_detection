@@ -1,0 +1,2 @@
+# Face_detection_based_attendance_marking_emotion_detection
+AI-DRIVEN REAL-TIME ATTENDANCE AND ENGAGEMENT MONITORING SYSTEM
